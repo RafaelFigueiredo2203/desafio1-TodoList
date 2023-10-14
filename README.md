@@ -9,8 +9,8 @@ NLW AI - UPLOAD AI
 
 <h1 align="center" >
 
-  <img src="[/chrome-capture-2023-8-18.gif](https://github.com/RafaelFigueiredo2203/desafio1-TodoList/assets/60237326/a14f3db4-d5de-46b6-bbcd-e1d17429f5ab)"/> 
-
+  
+![image](https://github.com/RafaelFigueiredo2203/desafio1-TodoList/assets/60237326/a14f3db4-d5de-46b6-bbcd-e1d17429f5ab)
 
   </h1>
 
