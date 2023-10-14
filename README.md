@@ -1,6 +1,6 @@
 
 <h1 align="center" >
-NLW AI - UPLOAD AI
+  Desafio TodoList - Ignite
 </h1>
 
 
@@ -21,22 +21,14 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [Vite](https://vitejs.dev/)
 - [Tailwind](https://tailwindcss.com/)
-- [OpenAi](https://openai.com/)
 - [Shadcnui](https://ui.shadcn.com/)
 - [Typescript](https://www.typescriptlang.org/)
-- [NodeJs](https://nodejs.org/en)
-- [Prisma](https://www.prisma.io/)
-- [AXIOS](https://axios-http.com/ptbr/docs/intro)
-- [WebAssembly](https://webassembly.org/)
+
 
 
 ## 💻 Projeto
 
-Upload Ai é um projeto onde podemos fazer títulos e descrições a partir do upload de um vídeo , para realizar esse processo utilizamos o WebAssembly(ffmpeg) para converter o vídeo para áudio direto do navegador do usuário .</br>
-Após isso a api da OpenAi , utiliza o áudio gerado para realizar as transcrições e títulos para o usuário .</br>
-Utilizamos Vite com TailwindCss , Shadcnui no Front-End e para se comunicar com nosso banco de dados utilizamos o Prisma com NodeJs e Axios.</br>
-Esse projeto foi muito bacana , foi muito interessante ver como a IA funciona por de baixo dos panos , o conhecimento passado também foi de grande importância e irá agregar muito em minha carreira!
-
+Esse desafio teve o objetivo de colocar os meus conhecimentos em pratica ,de acordo com o módulo 1 do Ignite , fiquei muito feliz em conseguir concluir mais essa etapa do módulo.
 
 ## 🚀 Como executar
 
