@@ -1,27 +1,49 @@
-# React + TypeScript + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<h1 align="center" >
+NLW AI - UPLOAD AI
+</h1>
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Expanding the ESLint configuration
+<br>
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+<h1 align="center" >
 
-- Configure the top-level `parserOptions` property like this:
+  <img src="[/chrome-capture-2023-8-18.gif](https://github.com/RafaelFigueiredo2203/desafio1-TodoList/assets/60237326/a14f3db4-d5de-46b6-bbcd-e1d17429f5ab)"/> 
 
-```js
-   parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-   },
-```
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+  </h1>
+
+
+## ✨ Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- [Vite](https://vitejs.dev/)
+- [Tailwind](https://tailwindcss.com/)
+- [OpenAi](https://openai.com/)
+- [Shadcnui](https://ui.shadcn.com/)
+- [Typescript](https://www.typescriptlang.org/)
+- [NodeJs](https://nodejs.org/en)
+- [Prisma](https://www.prisma.io/)
+- [AXIOS](https://axios-http.com/ptbr/docs/intro)
+- [WebAssembly](https://webassembly.org/)
+
+
+## 💻 Projeto
+
+Upload Ai é um projeto onde podemos fazer títulos e descrições a partir do upload de um vídeo , para realizar esse processo utilizamos o WebAssembly(ffmpeg) para converter o vídeo para áudio direto do navegador do usuário .</br>
+Após isso a api da OpenAi , utiliza o áudio gerado para realizar as transcrições e títulos para o usuário .</br>
+Utilizamos Vite com TailwindCss , Shadcnui no Front-End e para se comunicar com nosso banco de dados utilizamos o Prisma com NodeJs e Axios.</br>
+Esse projeto foi muito bacana , foi muito interessante ver como a IA funciona por de baixo dos panos , o conhecimento passado também foi de grande importância e irá agregar muito em minha carreira!
+
+
+## 🚀 Como executar
+
+- Clone o repositório
+- Instale as dependências com `yarn` ou `npm install`
+- Inicie o servidor com `yarn start` ou `npm start`
+
+
+Never Stop Learning.🚀 🚀 🚀 
+
